@@ -1,1 +1,2 @@
 To jest projekt.
+Foo!
