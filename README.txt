@@ -1,1 +1,1 @@
-To jest mój projekt.
+To jest projekt.
