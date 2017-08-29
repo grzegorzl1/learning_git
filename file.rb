@@ -14,6 +14,10 @@ class Hello
   def say_hi
     puts "hi"
   end
+
+  def say_something
+    puts "Something"
+  end
 end
 
 hello = Hello.new
