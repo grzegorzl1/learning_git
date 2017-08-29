@@ -1,2 +1,2 @@
-puts " Pleaese, enter credintials:"
-login = gets
+puts " Please, enter credintials:"
+login = gets.chomp
